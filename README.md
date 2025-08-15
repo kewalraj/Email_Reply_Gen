@@ -13,10 +13,3 @@ AI Integration: OpenAI API (via Spring AI)
 Build Tool: Maven
 Version Control: Git & GitHub
 
-📂 Project Structure
-Email_Reply_Gen/
- ├── src/               # Main source code
- ├── pom.xml            # Maven dependencies
- ├── application.properties # API keys & configurations
- └── README.md
-
